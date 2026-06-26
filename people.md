@@ -28,3 +28,8 @@ Below is a list of current members of my research group and collaborators.
 
 - [Pelin Sekercioglu](https://www.kth.se/profile/pelinse), KTH, co-supervised with Prof. Dimos Dimarogonas (main supervisor)
 
+## Researcher assistant (amanuens):
+
+- [Mohamed Magzoub](https://mmagzoub.com/), co-supervised with Asst. Prof. Silun Zhang and Dr. Anzhi Sheng
+- [Jakob Götberg](https://www.kth.se/profile/jgotberg), co-supervised with Dr. Martina Alutto
+- [Axel Paul Daniel Wäppling](https://www.kth.se/profile/apdwa?l=en), co-supervised with Prof. Henrik Sandberg and PhD candidate Philipp Grünter
