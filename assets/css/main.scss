@@ -30,7 +30,8 @@ html {
     line-height: 1.3;
  }
   .author__avatar img {
-  width: 180px;   // adjust size here (try 160–220px)
+  width: 200px !important;
+  height: auto !important;
   border-radius: 6px;
   }
 
