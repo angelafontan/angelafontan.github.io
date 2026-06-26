@@ -17,40 +17,40 @@ classes: wide
 <ol id="customlistjournal" style="counter-reset: elementcounter 11;">
 
 <li>M. Farjadnia, <b>A. Fontan</b>, K. H. Johansson, and M. Molinari,
-<i>Assessing the impact of occupant behavior on residential building performance: A case study of window operation</i>, Building and Environment, vol. 297, p. 114552, 2026, DOI: <a href="https://doi.org/10.1016/j.buildenv.2026.114552" style="color:black">10.1016/j.buildenv.2026.114552</a>
+<i>Assessing the impact of occupant behavior on residential building performance: A case study of window operation</i>, Building and Environment, vol. 297, p. 114552, 2026, DOI: <a href="https://doi.org/10.1016/j.buildenv.2026.114552">10.1016/j.buildenv.2026.114552</a>
 </li>
 
 <li><b>A. Fontan</b>, R. Green, K. H. Johansson, and P. Eustachio Colombo, <i>Social Interactions for Sustainable Food Choices: Meeting the Target for Meat Intake in the United Kingdom</i>, Current Developments in Nutrition, vol. 9 (9), p. 107509, 2025,
-DOI: <a href="https://doi.org/10.1016/j.cdnut.2025.107509" style="color:black">10.1016/j.cdnut.2025.107509</a>
+DOI: <a href="https://doi.org/10.1016/j.cdnut.2025.107509">10.1016/j.cdnut.2025.107509</a>
 </li>
 
 <li><b>A. Fontan</b>, P. Eustachio Colombo, R. Green, and K. H. Johansson, <i>A systems perspective on promoting sustainable food systems</i>,
-Annual Reviews in Control, vol. 60 (July), p. 101020, 2025, DOI: <a href="https://doi.org/10.1016/j.arcontrol.2025.101020" style="color:black">10.1016/j.arcontrol.2025.101020</a>
+Annual Reviews in Control, vol. 60 (July), p. 101020, 2025, DOI: <a href="https://doi.org/10.1016/j.arcontrol.2025.101020">10.1016/j.arcontrol.2025.101020</a>
 </li>
 
 <li> <b>A. Fontan</b>, and C. Altafini, <i>From populations to networks: Relating diversity indices and frustration in signed
-graphs</i>, PNAS Nexus, vol. 3 (2), pp. 1–11, 2024, DOI: <a href="https://doi.org/10.1093/pnasnexus/pgae046" style="color:black">10.1093/pnasnexus/pgae046</a>
+graphs</i>, PNAS Nexus, vol. 3 (2), pp. 1–11, 2024, DOI: <a href="https://doi.org/10.1093/pnasnexus/pgae046">10.1093/pnasnexus/pgae046</a>
 </li>
 
-<li> <b>A. Fontan</b>, and C. Altafini, <i>Pseudoinverses of signed Laplacian matrices</i>, SIAM Journal on Matrix Analysis and Applications (SIMAX), vol. 44 (2), pp. 622--647, 2023, DOI: <a href="https://doi.org/10.1137/22M1493392" style="color:black">10.1137/22M1493392</a>
+<li> <b>A. Fontan</b>, and C. Altafini, <i>Pseudoinverses of signed Laplacian matrices</i>, SIAM Journal on Matrix Analysis and Applications (SIMAX), vol. 44 (2), pp. 622--647, 2023, DOI: <a href="https://doi.org/10.1137/22M1493392">10.1137/22M1493392</a>
 [<a href="/papers/journals/Fontan2021Pseudoinverses.pdf">pdf</a>]
 </li>
 
-<li> <b>A. Fontan</b>, L. Wang, Y. Hong, G. Shi, and C. Altafini, <i>Multi-agent consensus over time-invariant and time-varying signed digraphs via eventual positivity</i>, IEEE Transactions on Automatic Control, vol. 68 (9), pp. 5429--5444, 2023, DOI: <a href="https://ieeexplore.ieee.org/document/9965602" style="color:black">10.1109/TAC.2022.3225472</a>, [<a href="/papers/journals/Fontan2022MAS.pdf">pdf</a>, <a href="https://arxiv.org/abs/2203.04215">arXiv:2203.04215</a>]
+<li> <b>A. Fontan</b>, L. Wang, Y. Hong, G. Shi, and C. Altafini, <i>Multi-agent consensus over time-invariant and time-varying signed digraphs via eventual positivity</i>, IEEE Transactions on Automatic Control, vol. 68 (9), pp. 5429--5444, 2023, DOI: <a href="https://ieeexplore.ieee.org/document/9965602">10.1109/TAC.2022.3225472</a>, [<a href="/papers/journals/Fontan2022MAS.pdf">pdf</a>, <a href="https://arxiv.org/abs/2203.04215">arXiv:2203.04215</a>]
 </li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>The role of frustration in collective decision-making dynamical processes on multiagent signed networks</i>, IEEE Transactions on Automatic Control, vol. 67 (10), pp. 5191--5206, 2022, DOI: <a href="https://ieeexplore.ieee.org/document/9591259" style="color:black">10.1109/TAC.2021.3123222</a>
+<li> <b>A. Fontan</b> and C. Altafini, <i>The role of frustration in collective decision-making dynamical processes on multiagent signed networks</i>, IEEE Transactions on Automatic Control, vol. 67 (10), pp. 5191--5206, 2022, DOI: <a href="https://ieeexplore.ieee.org/document/9591259">10.1109/TAC.2021.3123222</a>
 [<a href="/papers/journals/Fontan2021RoleFrustration.pdf">pdf</a>]
 </li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>A signed network perspective on the government formation process in parliamentary democracies</i>, Scientific Reports, vol. 11 (5134), 2021, DOI: <a href="https://www.nature.com/articles/s41598-021-84147-3" style="color:black">10.1038/s41598-021-84147-3</a> [<a href="/papers/journals/Fontan2021Signed.pdf">pdf</a>, <a href="/papers/journals/Fontan2021Signed_SI.pdf">SI</a>]
+<li> <b>A. Fontan</b> and C. Altafini, <i>A signed network perspective on the government formation process in parliamentary democracies</i>, Scientific Reports, vol. 11 (5134), 2021, DOI: <a href="https://www.nature.com/articles/s41598-021-84147-3">10.1038/s41598-021-84147-3</a> [<a href="/papers/journals/Fontan2021Signed.pdf">pdf</a>, <a href="/papers/journals/Fontan2021Signed_SI.pdf">SI</a>]
 </li>
 
 <li> <b>A. Fontan</b>, G. Shi, X. Hu and C. Altafini, <i>Interval Consensus for Multiagent Networks</i>, IEEE Transactions on Automatic Control, vol. 65 (5), pp. 1855--1869, 2019,
-DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">10.1109/TAC.2019.2924131</a> [<a href="/papers/journals/Fontan2019Interval.pdf">pdf</a>]
+DOI: <a href="https://ieeexplore.ieee.org/document/8742903">10.1109/TAC.2019.2924131</a> [<a href="/papers/journals/Fontan2019Interval.pdf">pdf</a>]
 </li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>Multiequilibria Analysis for a Class of Collective Decision-Making Networked Systems</i>, IEEE Transactions on Control of Network Systems, vol. 5 (4), pp. 1931--1940, 2018, DOI: <a href="https://ieeexplore.ieee.org/document/8110687" style="color:black">10.1109/TCNS.2017.2774014</a> [<a href="/papers/journals/Fontan2018MultiEquilibria.pdf">pdf</a>]
+<li> <b>A. Fontan</b> and C. Altafini, <i>Multiequilibria Analysis for a Class of Collective Decision-Making Networked Systems</i>, IEEE Transactions on Control of Network Systems, vol. 5 (4), pp. 1931--1940, 2018, DOI: <a href="https://ieeexplore.ieee.org/document/8110687">10.1109/TCNS.2017.2774014</a> [<a href="/papers/journals/Fontan2018MultiEquilibria.pdf">pdf</a>]
 </li>
 </ol>
 
@@ -61,7 +61,7 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 <ol id="customlistconference" style="counter-reset: elementcounter 23;">
 
 <li> M. Alutto, F. Dabbene, <b>A. Fontan</b>, K. H. Johansson, and C. Ravazzi, <i>On a Coupled Adoption-Opinion Framework for Competing Innovations</i>, 23rd IFAC World Congress, Busan, Korea, Aug 2026.
-<a href="https://arxiv.org/abs/2601.16719" style="color:black">arXiv:2601.16719</a>
+<a href="https://arxiv.org/abs/2601.16719">arXiv:2601.16719</a>
 </li>
 
 <li> M. Alutto, L. Zino, K. H. Johansson, and <b>A. Fontan</b>, <i>On a Co-evolving Opinion-Leadership Model in Social Networks</i>,
@@ -90,14 +90,14 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 <li> W. J. A. van Weerelt, <b>A. Fontan</b>, N. Bastianello,
 <i>Adaptive Online Optimization for Microgrids with Renewable Energy Sources</i>,
 23rd IFAC World Congress, Busan, Korea, Aug 2026.
-<a href="https://arxiv.org/abs/2512.04778" style="color:black">arXiv:2512.04778</a>
+<a href="https://arxiv.org/abs/2512.04778">arXiv:2512.04778</a>
 </li>
 
 <li>
 C. Song, <b>A. Fontan</b>, R. Su, J. M. Hendrickx, V. Cvetkovic, and K. H. Johansson,
 <i>On the Convergence of an Opinion-Action Coevolution Model with Bounded Confidence</i>,
 24th European Control Conference, Reykjavík, Iceland, Jul 2026.
-<a href="https://arxiv.org/abs/2604.06140" style="color:black">arXiv:2604.06140</a>
+<a href="https://arxiv.org/abs/2604.06140">arXiv:2604.06140</a>
 </li>
 
 <li>
@@ -136,15 +136,15 @@ in 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025.
 
 <li> L. Wang, <b>A. Fontan</b>, Y. Hong, G. Shi, and Claudio Altafini, <i>Multi-agent consensus over signed graphs with switching topology</i>, 20th European Control Conference (ECC), London, UK, July 2022</li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>On the properties of Laplacian pseudoinverses</i>, 60th IEEE Conference on Decision and Control (CDC), Austin, Texas, USA, December 2021, DOI: <a href="https://ieeexplore.ieee.org/document/9683525" style="color:black">10.1109/CDC45484.2021.9683525</a></li>
+<li> <b>A. Fontan</b> and C. Altafini, <i>On the properties of Laplacian pseudoinverses</i>, 60th IEEE Conference on Decision and Control (CDC), Austin, Texas, USA, December 2021, DOI: <a href="https://ieeexplore.ieee.org/document/9683525">10.1109/CDC45484.2021.9683525</a></li>
 
 <li> <b>A. Fontan</b> and C. Altafini, <i>Describing government formation processes through collective multiagent dynamics on signed networks</i> (extended abstract), 1st Virtual IFAC World Congress, July 2020</li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>Achieving a decision in antagonistic multiagent networks: frustration determined commitment strength</i>, 57th IEEE Conference on Decision and Control (CDC), Miami Beach, FL, USA, December 2018, DOI: <a href="https://ieeexplore.ieee.org/document/8619615" style="color:black">10.1109/CDC.2018.8619615</a> [<a href="/papers/conferences/Fontan2018Achieving.pdf">pdf</a>]</li>
+<li> <b>A. Fontan</b> and C. Altafini, <i>Achieving a decision in antagonistic multiagent networks: frustration determined commitment strength</i>, 57th IEEE Conference on Decision and Control (CDC), Miami Beach, FL, USA, December 2018, DOI: <a href="https://ieeexplore.ieee.org/document/8619615">10.1109/CDC.2018.8619615</a> [<a href="/papers/conferences/Fontan2018Achieving.pdf">pdf</a>]</li>
 
-<li> <b>A. Fontan</b> and C. Altafini, <i>Investigating mixed-sign equilibria for nonlinear collective decision-making systems</i>, 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, December 2017, DOI: <a href="https://ieeexplore.ieee.org/document/8263755" style="color:black">10.1109/CDC.2017.8263755</a></li>
+<li> <b>A. Fontan</b> and C. Altafini, <i>Investigating mixed-sign equilibria for nonlinear collective decision-making systems</i>, 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, December 2017, DOI: <a href="https://ieeexplore.ieee.org/document/8263755">10.1109/CDC.2017.8263755</a></li>
 
-<li> <b>A. Fontan</b>, G. Shi, X. Hu and C. Altafini, <i>Interval Consensus: a novel class of constrained consensus problems for multiagent networks</i>, 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, December 2017, DOI: <a href="https://ieeexplore.ieee.org/document/8264270" style="color:black">10.1109/CDC.2017.8264270</a></li>
+<li> <b>A. Fontan</b>, G. Shi, X. Hu and C. Altafini, <i>Interval Consensus: a novel class of constrained consensus problems for multiagent networks</i>, 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, December 2017, DOI: <a href="https://ieeexplore.ieee.org/document/8264270">10.1109/CDC.2017.8264270</a></li>
 </ol>
 
 ## Chapters in Books
