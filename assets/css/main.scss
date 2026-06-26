@@ -39,66 +39,39 @@ html {
 }
 
 /* =========================
-   Theme toggle (UI only)
+   SKIN OVERRIDES
+   dark (default) → dirt (light mode)
 ========================= */
 
-.theme-toggle-wrapper {
-  display: flex;
-  align-items: center;
+html.skin-dirt body {
+  background-color: #f5f5f5;
+  color: #1a1a1a;
 }
 
-/* Switch container */
-.theme-switch {
-  position: relative;
-  display: inline-block;
-  width: 50px;
-  height: 26px;
+html.skin-dirt a {
+  color: #1B66BE;
 }
 
-/* Hide checkbox */
-.theme-switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
+html.skin-dirt .masthead,
+html.skin-dirt .page__footer {
+  background-color: #ffffff;
 }
 
-/* Slider background */
-.slider {
-  position: absolute;
-  cursor: pointer;
-  inset: 0;
-  background-color: #ccc;
-  transition: 0.3s;
-  border-radius: 34px;
+html.skin-dirt .page__content,
+html.skin-dirt .archive__item {
+  background-color: transparent;
 }
 
-/* Knob */
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 20px;
-  width: 20px;
-  left: 3px;
-  bottom: 3px;
-  background-color: white;
-  transition: 0.3s;
-  border-radius: 50%;
+html.skin-dirt pre,
+html.skin-dirt code {
+  background-color: #f0f0f0;
+  color: #1a1a1a;
 }
 
-/* ON state */
-input:checked + .slider {
-  background-color: #1B66BE;
-}
+/* =========================
+   OPTIONAL SMOOTH TRANSITION
+========================= */
 
-input:checked + .slider:before {
-  transform: translateX(24px);
-}
-
-body.toggle-on {
-  background-color: #111 !important;
-  color: #eee !important;
-}
-
-body.toggle-on a {
-  color: #7ab8ff !important;
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
