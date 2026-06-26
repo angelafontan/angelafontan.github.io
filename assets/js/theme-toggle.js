@@ -2,23 +2,21 @@
   const toggle = document.getElementById("theme-toggle");
   if (!toggle) return;
 
-  const body = document.body;
+  const html = document.documentElement;
 
-  // Load saved state
-  const saved = localStorage.getItem("theme-toggle");
+  const saved = localStorage.getItem("skin") || "dark";
 
-  if (saved === "on") {
-    toggle.checked = true;
-    body.classList.add("toggle-on");
-  }
+  apply(saved);
+  toggle.checked = saved === "dirt";
 
   toggle.addEventListener("change", function () {
-    if (this.checked) {
-      body.classList.add("toggle-on");
-      localStorage.setItem("theme-toggle", "on");
-    } else {
-      body.classList.remove("toggle-on");
-      localStorage.setItem("theme-toggle", "off");
-    }
+    const theme = this.checked ? "dirt" : "dark";
+    localStorage.setItem("skin", theme);
+    apply(theme);
   });
+
+  function apply(theme) {
+    html.classList.remove("skin-dark", "skin-dirt");
+    html.classList.add("skin-" + theme);
+  }
 })();
