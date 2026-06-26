@@ -1,14 +1,24 @@
-const btn = document.getElementById("theme-toggle");
+(function () {
+  const toggle = document.getElementById("theme-toggle");
+  if (!toggle) return;
 
-btn.addEventListener("click", () => {
-  const current = document.documentElement.getAttribute("data-theme");
+  const body = document.body;
 
-  const next = current === "dark" ? "light" : "dark";
-  document.documentElement.setAttribute("data-theme", next);
-  localStorage.setItem("theme", next);
-});
+  // Load saved state
+  const saved = localStorage.getItem("theme-toggle");
 
-const saved = localStorage.getItem("theme");
-if (saved) {
-  document.documentElement.setAttribute("data-theme", saved);
-}
+  if (saved === "on") {
+    toggle.checked = true;
+    body.classList.add("toggle-on");
+  }
+
+  toggle.addEventListener("change", function () {
+    if (this.checked) {
+      body.classList.add("toggle-on");
+      localStorage.setItem("theme-toggle", "on");
+    } else {
+      body.classList.remove("toggle-on");
+      localStorage.setItem("theme-toggle", "off");
+    }
+  });
+})();
