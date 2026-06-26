@@ -16,10 +16,21 @@ classes: wide
 ## Journal papers 
 <ol id="customlistjournal" style="counter-reset: elementcounter 8;">
 
+<li>M. Farjadnia, <b>A. Fontan</b>, K. H. Johansson, and M. Molinari,
+<i>Assessing the impact of occupant behavior on residential building performance: A case study of window operation</i>, Building and Environment, vol. 297, p. 114552, 2026, DOI: <a href="https://doi.org/10.1016/j.buildenv.2026.114552" style="color:black">10.1016/j.buildenv.2026.114552</a>
+</li>
+
+<li><b>A. Fontan</b>, R. Green, K. H. Johansson, and P. Eustachio Colombo, <i>Social Interactions for Sustainable Food Choices: Meeting the Target for Meat Intake in the United Kingdom</i>, Current Developments in Nutrition, vol. 9 (9), p. 107509, 2025,
+DOI: <a href="https://doi.org/10.1016/j.cdnut.2025.107509" style="color:black">10.1016/j.cdnut.2025.107509</a>
+</li>
+
+<li><b>A. Fontan</b>, P. Eustachio Colombo, R. Green, and K. H. Johansson, <i>A systems perspective on promoting sustainable food systems</i>,
+Annual Reviews in Control, vol. 60 (July), p. 101020, 2025, DOI: <a href="https://doi.org/10.1016/j.arcontrol.2025.101020" style="color:black">10.1016/j.arcontrol.2025.101020</a>
+</li>
+
 <li> <b>A. Fontan</b>, and C. Altafini, <i>From populations to networks: Relating diversity indices and frustration in signed
 graphs</i>, PNAS Nexus, vol. 3 (2), pp. 1–11, 2024, DOI: <a href="https://doi.org/10.1093/pnasnexus/pgae046" style="color:black">10.1093/pnasnexus/pgae046</a>
 </li>
-
 
 <li> <b>A. Fontan</b>, and C. Altafini, <i>Pseudoinverses of signed Laplacian matrices</i>, SIAM Journal on Matrix Analysis and Applications (SIMAX), vol. 44 (2), pp. 622--647, 2023, DOI: <a href="https://doi.org/10.1137/22M1493392" style="color:black">10.1137/22M1493392</a>
 [<a href="/papers/journals/Fontan2021Pseudoinverses.pdf">pdf</a>]
@@ -48,6 +59,75 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 ## Conference papers  (peer-reviewed)
 
 <ol id="customlistconference" style="counter-reset: elementcounter 10;">
+
+<li> M. Alutto, F. Dabbene, <b>A. Fontan</b>, K. H. Johansson, and C. Ravazzi, <i>On a Coupled Adoption-Opinion Framework for Competing Innovations</i>, 23rd IFAC World Congress, Busan, Korea, Aug 2026.
+<a href="https://arxiv.org/abs/2601.16719" style="color:black">arXiv:2601.16719</a>
+</li>
+
+<li> M. Alutto, L. Zino, K. H. Johansson, and <b>A. Fontan</b>, <i>On a Co-evolving Opinion-Leadership Model in Social Networks</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026. </li>
+
+<li> Y. Tian, A. Sheng, <b>A. Fontan</b>, L. Wang, and K. H. Johansson,
+<i>Susceptibility optimization and the wisdom of crowds in influence networks</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026.
+</li>
+
+<li> C. Song, V. Cvetkovic, <b>A. Fontan</b>, R. Su, and K. H. Johansson,
+<i>Impact of Attitude and Bounded Rationality on Collective Behavioral Transitions</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026.
+</li>
+
+<li> P. Grünter, K. H. Johansson, and <b>A. Fontan</b>,
+<i>Trust in the Friedkin-Johnsen model: Incentives under partial information</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026.
+</li>
+
+<li> M. Farjadnia, K. Eshkofti, A. Apell, T. Hjalmarsson, K. H. Johansson, <b>A. Fontan</b>, M. Molinari,
+<i>Generalizability of Learning-based Occupancy Detection in Residential Buildings</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026.
+</li>
+
+<li> W. J. A. van Weerelt, <b>A. Fontan</b>, N. Bastianello,
+<i>Adaptive Online Optimization for Microgrids with Renewable Energy Sources</i>,
+23rd IFAC World Congress, Busan, Korea, Aug 2026.
+<a href="https://arxiv.org/abs/2512.04778" style="color:black">arXiv:2512.04778</a>
+</li>
+
+<li>
+C. Song, <b>A. Fontan</b>, R. Su, J. M. Hendrickx, V. Cvetkovic, and K. H. Johansson,
+<i>On the Convergence of an Opinion-Action Coevolution Model with Bounded Confidence</i>,
+24th European Control Conference, Reykjavík, Iceland, Jul 2026.
+<a href="https://arxiv.org/abs/2604.06140" style="color:black">arXiv:2604.06140</a>
+</li>
+
+<li>
+P. Sekercioglu, N. Wang, <b>A. Fontan</b>, and D. V. Dimarogonas,
+<i>Topology Identification of Dynamical Signed Graphs</i>,
+24th European Control Conference, Reykjavík, Iceland, Jul 2026.
+</li>
+
+<li>
+A. Fontan and S. Zhang,
+<i>Collective decision-making dynamics in hypernetworks</i>,
+in 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025.
+</li>
+
+<li>P. Sekercioglu, <b>A. Fontan</b>, D. V. Dimarogonas,
+<i>Stability of Open Multi-agent Systems over Dynamic Signed Graphs</i>,
+64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, Dec 2025.
+</li>
+
+<li><b>A. Fontan</b>, V. Cvetkovic, P. Herman, J. Sundh, K. H. Johansson,
+<i>Exploring rationality of prospect choices among decision-makers in a population</i>,
+5th IFAC Workshop on Cyber-Physical and Human Systems, Antalya, Turkey, Dec 2024.
+</li>
+
+<li><b>A. Fontan</b>, P. Eustachio Colombo, R. Green, K. H. Johansson,
+<i>Influencing Opinion Dynamics to Promote Sustainable Food Choices</i>,
+5th IFAC Workshop on Cyber-Physical and Human Systems, Antalya, Turkey, Dec 2024.
+</li>
+
+  
 <li> M. Farjadnia, <b>A. Fontan</b>, A. Alanwar, M. Molinari, and K. H. Johansson, <i>Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees</i>, 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, December 16-19, 2024 [<a href="https://arxiv.org/abs//2409.14366">arXiv:/2409.14366</a>]</li>
   
 <li> M. Farjadnia, <b>A. Fontan</b>, A. Russo, K. H. Johansson, and M. Molinari, <i>What influences occupants' behavior in residential buildings? An experimental study on window operation in the KTH Live-In Lab</i>, 7th IEEE Conference on Control Technology and Applications (CCTA), Bridgetown, Barbados, August 16-18, 2023 [<a href="https://arxiv.org/abs/2307.08090">arXiv:2307.08090</a>]</li>
