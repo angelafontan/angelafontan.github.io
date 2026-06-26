@@ -14,7 +14,7 @@ classes: wide
 
 
 ## Journal papers 
-<ol id="customlistjournal" style="counter-reset: elementcounter 8;">
+<ol id="customlistjournal" style="counter-reset: elementcounter 11;">
 
 <li>M. Farjadnia, <b>A. Fontan</b>, K. H. Johansson, and M. Molinari,
 <i>Assessing the impact of occupant behavior on residential building performance: A case study of window operation</i>, Building and Environment, vol. 297, p. 114552, 2026, DOI: <a href="https://doi.org/10.1016/j.buildenv.2026.114552" style="color:black">10.1016/j.buildenv.2026.114552</a>
@@ -58,7 +58,7 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903" style="color:black">
 
 ## Conference papers  (peer-reviewed)
 
-<ol id="customlistconference" style="counter-reset: elementcounter 10;">
+<ol id="customlistconference" style="counter-reset: elementcounter 23;">
 
 <li> M. Alutto, F. Dabbene, <b>A. Fontan</b>, K. H. Johansson, and C. Ravazzi, <i>On a Coupled Adoption-Opinion Framework for Competing Innovations</i>, 23rd IFAC World Congress, Busan, Korea, Aug 2026.
 <a href="https://arxiv.org/abs/2601.16719" style="color:black">arXiv:2601.16719</a>
