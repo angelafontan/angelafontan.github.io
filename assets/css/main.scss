@@ -93,3 +93,12 @@ input:checked + .slider {
 input:checked + .slider:before {
   transform: translateX(24px);
 }
+
+body.toggle-on {
+  background-color: #111 !important;
+  color: #eee !important;
+}
+
+body.toggle-on a {
+  color: #7ab8ff !important;
+}
