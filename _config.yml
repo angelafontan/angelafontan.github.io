@@ -108,9 +108,9 @@ author:
   location         : "Decision and Control Systems<br>KTH Royal Institute of Technology<br>SE-100 44 Stockholm<br>Sweden"
   email            : "angfon@kth.se"
   linkedin         : "angelafontan"
-  researchgate     : "Angela-Fontan"
+  #researchgate     : "Angela-Fontan"
   googlescholar    : "zoh-5V8AAAAJ&amp;hl=en"
-  twitter          : "angelafontan_"
+  #twitter          : "angelafontan_"
   links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
