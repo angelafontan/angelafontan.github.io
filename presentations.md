@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Conference presentations, invited talks, and posters"
+title: "Invited talks, conference presentations, and posters"
 classes: wide
 ---
 
@@ -51,7 +51,10 @@ classes: wide
 
 <ol id="customlistpresentation" style="counter-reset: elementcounter 9;">
 
-<li> <i>Social interactions for a sustainable lifestyle: The design of an experimental case study</i>, 22nd IFAC World Congress, Yokohama, Japan, July 9--14, 2023 [<a href="/presentations/230710-IFAC_slides.pdf">slides</a>]
+<li> 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, Dec 2025</li>
+<li> 5th IFAC Workshop on CPHS, Antalya, Turkey, Dec 2024</li>
+
+<li> <i>Social interactions for a sustainable lifestyle: The design of an experimental case study</i>, 22nd IFAC World Congress, Yokohama, Japan, July 9--14, 2023 
 </li>
 
 <li> <i>On behavioral changes for connected individuals: a networked dynamic decision-making approach</i>, 4th IFAC Workshop on Cyber-Physical Human Systems, Houston, Texas, December 1-2, 2022
