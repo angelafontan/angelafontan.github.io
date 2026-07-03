@@ -5,8 +5,8 @@ title: "Invited talks, conference presentations, and other activities"
 classes: wide
 ---
 
-## Invited talks, panels, and seminars
-<ol id="customlisttalk" style="counter-reset: elementcounter 10;">
+## Invited talks and seminars
+<ul>
 
 <li> <a href="https://collectivebehavior.polito.it">Hacking Collective Behavior</a>, Politecnico di Torino, Turin, 2-3 July, 2026
 </li>
@@ -29,12 +29,12 @@ classes: wide
 
 <li> <a href="https://www.kth.se/eecs-summerevent-2022/">EECS Summer Event</a>, Stockholm, June 8, 2022</li>
 
-</ol>
+</ul>
 
 
 ## Conference presentations
 
-<ol id="customlistpresentation" style="counter-reset: elementcounter 9;">
+<ol id="customlistpresentation" style="counter-reset: elementcounter 15;">
 
 <li> 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, Dec 2025</li>
 <li> 5th IFAC Workshop on CPHS, Antalya, Turkey, Dec 2024</li>
