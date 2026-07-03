@@ -5,6 +5,48 @@ title: "Conference presentations, invited talks, and posters"
 classes: wide
 ---
 
+## Invited talks, panels, and seminars
+<ol id="customlisttalk" style="counter-reset: elementcounter 10;">
+
+<li> <a href="https://collectivebehavior.polito.it">Hacking Collective Behavior</a>, Politecnico di Torino, Turin, 2-3 July, 2026
+</li>
+
+<li> Lund University, Jan 23, 2025
+</li>
+
+<li> Workshop on <a href="  https://www.sg.ethz.ch/events/workshop-structural-balance-may-2024/">  Signed relations and structural balance in complex systems: From data to models</a>, ETH Zürich, May 15–17, 2024
+</li>
+  
+<li> <a href="https://elliit.se/news-and-events/focus-period-linkoping-2023/">ELLIIT Focus Period</a>, Linköping, Sweden, September 4<code>&#8212;</code>October 6, 2023
+[<a href="/presentations/230905-ELLIIT_slides.pdf">slides</a>]
+</li>
+
+<li> <a href="https://idsc.ethz.ch/research-frazzoli/autonomy-talks.html">Autonomy Talks</a>, ETH Zürich, June 6, 2023
+</li>
+
+<li> <a href="https://www.digitalfutures.kth.se/event/digital-futures-open-research-days-on-april-20-21-2023/">Research Breakout session: Social AI</a>, Digital Futures Open Research Days, April 20-21, 2023
+</li>
+
+<li> Panel on unconscious bias, diversity, and inclusion at the <a href="https://sites.google.com/control.ee.ethz.ch/ieeecdc2022-workshop-di?pli=1">Skills and Perspectives for Early Career Development Workshop</a>, 61st IEEE Conference on Decision and Control, Cancún, Mexico, December 5, 2022
+</li>
+
+<li> Research Break-out session: Smart Society, <a href="https://www.youtube.com/playlist?list=PLDhpZwN_GioWSUI-Fyheimps0NdluABVW">Digitalize in Stockholm</a>, October 19, 2022
+</li>
+
+<li> 
+<a href="https://www.digitalfutures.kth.se/event/collective-decision-making-on-networked-systems-in-presence-of-antagonistic-interactions/">Dive Deep with Digital Futures</a>, March 3, 2022
+[<a href="/presentations/220303-DF_slides.pdf">slides</a>]
+</li>
+
+<li> <a href="https://www.ltu.se/research/subjects/control/Reglermote?l=en/">Swedish Control Meeting</a> ("Reglermöte"), Luleå, Sweden, June 9, 2022</li>
+
+<li> <a href="https://www.kth.se/eecs-summerevent-2022/">EECS Summer Event</a>, Stockholm, June 8, 2022</li>
+
+<li> Swedish Control Meeting ("Reglermöte"), Stockholm, Sweden, June, 2018
+</li>
+</ol>
+
+
 ## Conference presentations
 
 <ol id="customlistpresentation" style="counter-reset: elementcounter 9;">
@@ -39,36 +81,7 @@ Melbourne, Australia, December 2017
 </li>
 </ol>
 
-## Invited talks, panels, and seminars
-<ol id="customlisttalk" style="counter-reset: elementcounter 10;">
-<li> <a href="https://elliit.se/news-and-events/focus-period-linkoping-2023/">ELLIIT Focus Period</a>, Linköping, Sweden, September 4<code>&#8212;</code>October 6, 2023
-[<a href="/presentations/230905-ELLIIT_slides.pdf">slides</a>]
-</li>
 
-<li> <a href="https://idsc.ethz.ch/research-frazzoli/autonomy-talks.html">Autonomy Talks</a>, ETH Zürich, June 6, 2023
-</li>
-
-<li> <a href="https://www.digitalfutures.kth.se/event/digital-futures-open-research-days-on-april-20-21-2023/">Research Breakout session: Social AI</a>, Digital Futures Open Research Days, April 20-21, 2023
-</li>
-
-<li> Panel on unconscious bias, diversity, and inclusion at the <a href="https://sites.google.com/control.ee.ethz.ch/ieeecdc2022-workshop-di?pli=1">Skills and Perspectives for Early Career Development Workshop</a>, 61st IEEE Conference on Decision and Control, Cancún, Mexico, December 5, 2022
-</li>
-
-<li> Research Break-out session: Smart Society, <a href="https://www.youtube.com/playlist?list=PLDhpZwN_GioWSUI-Fyheimps0NdluABVW">Digitalize in Stockholm</a>, October 19, 2022
-</li>
-
-<li> 
-<a href="https://www.digitalfutures.kth.se/event/collective-decision-making-on-networked-systems-in-presence-of-antagonistic-interactions/">Dive Deep with Digital Futures</a>, March 3, 2022
-[<a href="/presentations/220303-DF_slides.pdf">slides</a>]
-</li>
-
-<li> <a href="https://www.ltu.se/research/subjects/control/Reglermote?l=en/">Swedish Control Meeting</a> ("Reglermöte"), Luleå, Sweden, June 9, 2022</li>
-
-<li> <a href="https://www.kth.se/eecs-summerevent-2022/">EECS Summer Event</a>, Stockholm, June 8, 2022</li>
-
-<li> Swedish Control Meeting ("Reglermöte"), Stockholm, Sweden, June, 2018
-</li>
-</ol>
 
 ## Posters
 - *Human behavior and social interactions in complex environments: The case study of the KTH Live-In Lab*\
