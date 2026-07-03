@@ -81,16 +81,8 @@ Melbourne, Australia, December 2017
 </ol>
 
 ## Other activites
-<ol>
+<ul>
 <li> Panel on unconscious bias, diversity, and inclusion at the <a href="https://sites.google.com/control.ee.ethz.ch/ieeecdc2022-workshop-di?pli=1">Skills and Perspectives for Early Career Development Workshop</a>, 61st IEEE Conference on Decision and Control, Cancún, Mexico, December 5, 2022
 </li>
-</ol>
+</ul>
 
-## Posters
-- *Human behavior and social interactions in complex environments: The case study of the KTH Live-In Lab*\
-[The 2023 Digital Futures HiSS Workshop](https://www.hiss-digitalfutures.se/workshop-series/2023-hiss-workshop), 
-Stockholm, Sweden, May 3-5, 2023
-
-- *The HiSS LiL Social Case Study: Social interactions and sustainable lifestyle*\
-[Workshop on Data, Learning, and Markets](https://c3dti.ai/events/workshops/data-learning-markets/), 
-University of Illinois at Urbana-Champaign, Illinois, USA, October 10–12, 2022
