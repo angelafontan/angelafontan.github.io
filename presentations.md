@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Invited talks, conference presentations, and posters"
+title: "Invited talks, conference presentations, and other activities"
 classes: wide
 ---
 
