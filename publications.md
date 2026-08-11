@@ -14,7 +14,10 @@ classes: wide
 
 
 ## Journal papers 
-<ol id="customlistjournal" style="counter-reset: elementcounter 11;">
+<ol id="customlistjournal" style="counter-reset: elementcounter 12;">
+
+<li>A. Sheng, A. McAvoy, Y. Tian, S. Zhang, <b>A. Fontan</b>, and J. B. Plotkin, <i>Hyperedge approximation for stochastic processes on higher-order networks</i>, PNAS, 123 (32) e2619078123, 2026, DOI: <a href="https://doi.org/10.1073/pnas.2619078123">10.1073/pnas.2619078123</a>
+</li>
 
 <li>M. Farjadnia, <b>A. Fontan</b>, K. H. Johansson, and M. Molinari,
 <i>Assessing the impact of occupant behavior on residential building performance: A case study of window operation</i>, Building and Environment, vol. 297, p. 114552, 2026, DOI: <a href="https://doi.org/10.1016/j.buildenv.2026.114552">10.1016/j.buildenv.2026.114552</a>
@@ -60,19 +63,19 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903">10.1109/TAC.2019.292
 
 <ol id="customlistconference" style="counter-reset: elementcounter 27;">
 
-<li> P. Grünter, K. H. Johansson, A. Fontan, <i>On personal recommendations in social networks</i>,
+<li> P. Grünter, K. H. Johansson, <b>A. Fontan</b>, <i>On personal recommendations in social networks</i>,
 2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
-<li> M. Alutto, L. Zino, K. H. Johansson, A. Fontan, <i>On leadership emergence in opinion dynamics on social networks</i>,
+<li> M. Alutto, L. Zino, K. H. Johansson, <b>A. Fontan</b>, <i>On leadership emergence in opinion dynamics on social networks</i>,
 2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
         
-<li> M. Farjadnia, S. Cozzolino, M. Molinari, K. H. Johansson, F. Lo Iudice, A. Fontan, <i>Robust Data-Driven Tube-based Zonotopic Predictive Control for Unknown Bilinear Systems</i>,
+<li> M. Farjadnia, S. Cozzolino, M. Molinari, K. H. Johansson, F. Lo Iudice, <b>A. Fontan</b>, <i>Robust Data-Driven Tube-based Zonotopic Predictive Control for Unknown Bilinear Systems</i>,
 2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
-<li> E. Elokda, R. Wang, A. Fontan, K. H. Johansson, <i>Flexible Electric Vehicle Charging with Karma</i>,
+<li> E. Elokda, R. Wang, <b>A. Fontan</b>, K. H. Johansson, <i>Flexible Electric Vehicle Charging with Karma</i>,
 2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
