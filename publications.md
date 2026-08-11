@@ -58,7 +58,7 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903">10.1109/TAC.2019.292
 
 ## Conference papers (peer-reviewed)
 
-<ol id="customlistconference" style="counter-reset: elementcounter 23;">
+<ol id="customlistconference" style="counter-reset: elementcounter 27;">
 
 <li> P. Grünter, K. H. Johansson, A. Fontan, <i>On personal recommendations in social networks</i>,
 2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
