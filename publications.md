@@ -64,19 +64,19 @@ DOI: <a href="https://ieeexplore.ieee.org/document/8742903">10.1109/TAC.2019.292
 <ol id="customlistconference" style="counter-reset: elementcounter 27;">
 
 <li> P. Grünter, K. H. Johansson, <b>A. Fontan</b>, <i>On personal recommendations in social networks</i>,
-2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
+65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
 <li> M. Alutto, L. Zino, K. H. Johansson, <b>A. Fontan</b>, <i>On leadership emergence in opinion dynamics on social networks</i>,
-2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
+65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
         
 <li> M. Farjadnia, S. Cozzolino, M. Molinari, K. H. Johansson, F. Lo Iudice, <b>A. Fontan</b>, <i>Robust Data-Driven Tube-based Zonotopic Predictive Control for Unknown Bilinear Systems</i>,
-2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
+65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
 <li> E. Elokda, R. Wang, <b>A. Fontan</b>, K. H. Johansson, <i>Flexible Electric Vehicle Charging with Karma</i>,
-2026 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
+65th IEEE Conference on Decision and Control, Honolulu, Hawaii, Dec 2026.
 </li>
 
 <li> M. Alutto, F. Dabbene, <b>A. Fontan</b>, K. H. Johansson, and C. Ravazzi, <i>On a Coupled Adoption-Opinion Framework for Competing Innovations</i>, 23rd IFAC World Congress, Busan, Korea, Aug 2026.
