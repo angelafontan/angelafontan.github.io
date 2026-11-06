@@ -14,7 +14,13 @@ classes: wide
 
 
 ## Journal papers 
-<ol id="customlistjournal" style="counter-reset: elementcounter 12;">
+<ol id="customlistjournal" style="counter-reset: elementcounter 14;">
+
+<li>P. Sekercioglu, <b>A. Fontan</b>, and D. V. Dimarogonas, <i>Edge-based Synchronization over Signed Digraphs with Multiple Leaders</i>, IEEE Transactions on Control of Network Systems, to appear, 2026
+</li>
+
+<li>P. Eustachio Colombo, O. Auclair, J. Milner, <b>A. Fontan</b>, S. Pastorino, S. Monteiro Pires, A. Hesselink, M. Löf, and R. Green, <i>Health co-benefits of sustainable dietary transitions to reduced red and processed meat intake in the United Kingdom: a modelling study</i>, European Journal of Nutrition, 65 (7), 2026, DOI: <a href="https://doi.org/10.1007/s00394-026-04093-6">10.1007/s00394-026-04093-6</a>
+</li>
 
 <li>A. Sheng, A. McAvoy, Y. Tian, S. Zhang, <b>A. Fontan</b>, and J. B. Plotkin, <i>Hyperedge approximation for stochastic processes on higher-order networks</i>, PNAS, 123 (32) e2619078123, 2026, DOI: <a href="https://doi.org/10.1073/pnas.2619078123">10.1073/pnas.2619078123</a>
 </li>
