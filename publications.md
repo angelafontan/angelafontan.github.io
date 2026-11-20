@@ -181,3 +181,5 @@ in 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025.
 
 - M. Alutto, F. Dabbene, **A. Fontan**, K. H. Johansson, and C. Ravazzi, *Competition, Switching, and Control in Coupled Adoption-Opinion Dynamics*, 2026, [arXiv:2611.04407](https://arxiv.org/abs/2611.04407)
 
+- Y. Tian, A. Sheng, **A. Fontan**, L. Wang, K. H. Johansson, *Susceptibility optimization for wisdom of crowds: A social power reformulation and realization framework*, 2026, [arXiv:2611.03240](https://doi.org/10.48550/arXiv.2611.03240)
+
