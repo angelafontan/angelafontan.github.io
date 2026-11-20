@@ -183,3 +183,5 @@ in 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025.
 
 - Y. Tian, A. Sheng, **A. Fontan**, L. Wang, K. H. Johansson, *Susceptibility optimization for wisdom of crowds: A social power reformulation and realization framework*, 2026, [arXiv:2611.03240](https://doi.org/10.48550/arXiv.2611.03240)
 
+- P. Sekercioglu, **A. Fontan**, D. V. Dimarogonas, *Stability of Open Multi-agent Systems over Dynamic Signed Digraphs*, 2026, [arXiv:2602.21738](https://doi.org/10.48550/arXiv.2602.21738)
+
