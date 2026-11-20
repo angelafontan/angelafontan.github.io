@@ -174,4 +174,10 @@ in 64th IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, 2025.
 
 ## Chapters in Books
 
-1. S. Hirche, A. Ames, T. Samad, **A. Fontan**, F. Lamnabhi-Lagarrigue, *Cyber-physical Human Systems*, Ch. 4.D, *in* Control for Societal-scale Challenges: Road Map 2030, Eds. A. M. Annaswamy, K. H. Johansson, and G. J. Pappas, IEEE Control Systems Society Publication, 2023, [ieeecss.org/control-societal-scale-challenges-roadmap-2030](https://ieeecss.org/control-societal-scale-challenges-road-map-2030)
+- S. Hirche, A. Ames, T. Samad, **A. Fontan**, F. Lamnabhi-Lagarrigue, *Cyber-physical Human Systems*, Ch. 4.D, *in* Control for Societal-scale Challenges: Road Map 2030, Eds. A. M. Annaswamy, K. H. Johansson, and G. J. Pappas, IEEE Control Systems Society Publication, 2023, [ieeecss.org/control-societal-scale-challenges-roadmap-2030](https://ieeecss.org/control-societal-scale-challenges-road-map-2030)
+
+
+## Preprints
+
+- M. Alutto, F. Dabbene, **A. Fontan**, K. H. Johansson, and C. Ravazzi, *Competition, Switching, and Control in Coupled Adoption-Opinion Dynamics*, 2026, [arXiv:2611.04407](https://arxiv.org/abs/2611.04407)
+
