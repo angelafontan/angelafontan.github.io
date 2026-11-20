@@ -15,7 +15,7 @@ Below is a list of current members of my research group and collaborators.
 - [Mahsa Farjadnia](https://www.kth.se/profile/mahsafa), KTH, co-supervised with Dr. Marco Molinari (main supervisor) and Prof. Karl H. Johansson
 
 - Chen Song, KTH & NTU, co-supervised with Prof. Rong Su (NTU; main supervisor) and Prof. Karl H. Johansson
-
+  
 ## Postdoctoral researchers
 
 - [Martina Alutto](https://www.kth.se/profile/alutto), KTH & WASP, co-supervised with Prof. Karl H. Johansson
@@ -28,8 +28,14 @@ Below is a list of current members of my research group and collaborators.
 
 - [Pelin Sekercioglu](https://www.kth.se/profile/pelinse), KTH, co-supervised with Prof. Dimos Dimarogonas (main supervisor)
 
+
+## Visiting PhD Students
+
+- Francesca Leanza, PhD candidate at the Scuola Superiore Meridionale, PhD programme in Modeling and Engineering Risk and Complexity (MERC), under the supervision of Prof. Francesco Lo Iudice
+
 ## Research assistants (amanuens):
 
+### Past 
 - [Mohamed Magzoub](https://mmagzoub.com/), co-supervised with Asst. Prof. Silun Zhang and Dr. Anzhi Sheng
 
 - [Jakob Götberg](https://www.kth.se/profile/jgotberg), co-supervised with Dr. Martina Alutto
